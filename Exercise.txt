@@ -1,0 +1,56 @@
+Print Odd number series
+print number table for the given input
+Print Fibonacci series upto a given number. Halt the program if the next number is greater than the given limit
+Check if a number is Prime
+Check Perfect number
+Reverse a number
+Check Palindrome number
+factorial of a given number in java?
+write a program to convert decimal to binary (Order of the output is not a problem)
+
+Print Square Pattern
+* * * *
+* * * *
+* * * *
+* * * *
+
+
+Print Square Pattern
+1 2 3 4
+1 2 3 4
+1 2 3 4
+1 2 3 4
+
+
+
+Print Right Triangle
+1
+1 2
+1 2 3
+1 2 3 4
+
+
+Print Down Right Triangle
+1 2 3 4
+1 2 3
+1 2
+1
+
+
+Print Mirrored Right Triangle
+      *
+    * *
+  * * *
+* * * *
+
+Print Down Mirrored Right Triangle
+* * * *
+  * * *
+    * *
+      *
+
+Pyramid Pattern (input will be odd number)
+    *
+  * * *
+* * * * *
+

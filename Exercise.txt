@@ -59,7 +59,6 @@ Pyramid Pattern (input will be odd number)
 
 
 
-
 Single Dimensional Array Problems
 =================================
 Print the sum of the array

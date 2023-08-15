@@ -1,0 +1,130 @@
+Control statement Problems
+==========================
+Print Odd number series upto a given input
+print number table for the given input
+Print Fibonacci series upto a given number. Halt the program if the next number is greater than the given limit
+Check if a given number is Prime
+Check Perfect number
+Reverse a number
+Check Palindrome number
+factorial of a given number in java?
+write a program to convert decimal to binary (Order of the output is not a problem)
+
+Print Square Pattern
+* * * *
+* * * *
+* * * *
+* * * *
+
+
+Print Square Pattern
+1 2 3 4
+1 2 3 4
+1 2 3 4
+1 2 3 4
+
+
+
+Print Right Triangle
+1
+1 2
+1 2 3
+1 2 3 4
+
+
+Print Down Right Triangle
+1 2 3 4
+1 2 3
+1 2
+1
+
+
+Print Mirrored Right Triangle
+      *
+    * *
+  * * *
+* * * *
+
+Print Down Mirrored Right Triangle
+* * * *
+  * * *
+    * *
+      *
+
+Pyramid Pattern (input will be odd number)
+    *
+  * * *
+* * * * *
+
+
+
+
+
+Single Dimensional Array Problems
+=================================
+Print the sum of the array
+Print the values in "Even" indexed position of the array
+Print the values that are divisible by 2.
+Print the index position of an element in an array 
+Print the number of occurance of an integer in a array
+Array has numbers in sequence but one number is missing, Find the missing number
+Find the largest/smallest number
+Find the 2nd largest number
+Sort the numbers in ascending order (Bubble Sort)
+Find the Kth largest number
+Find duplicates in an array
+
+Multi Dimensional Array Problems
+=================================
+Find the sum of all elements in a 2 Dimensional array.
+Print the sum of the a 2 Dimensional array.
+Print the values in "Even" indexed position of a 2 Dimensional array.
+Print the values that are divisible by 2 in a 2 Dimensional array.
+Print the index position of an element in an array.
+Print the number of occurance of an integer in a 2 Dimensional array.
+2 Dimensional Array has numbers in sequence but one number is missing, Find the missing number
+Find the largest/smallest number in a 2 Dimensional array.
+
+Print the values in left to right diagonal of a 2(NxN) Dimensional array.
+Print the values in right to left diagonal of a 2(NxN) Dimensional array.
+Print the sum of both the diagonals of a 2(NxN) Dimensional array. (Middle number should not be counted twice)
+Print the values above the left to right diagonal of a 2 Dimensional(NxN) array. (Need not maintain the matrix structure in output)
+Print the values above the right to left diagonal of a 2 Dimensional(NxN) array. (Need not maintain the matrix structure in output)
+Print the values below the left to right diagonal of a 2 Dimensional(NxN) array. (Need not maintain the matrix structure in output)
+Print the values below the right to left diagonal of a 2 Dimensional(NxN) array. (Need not maintain the matrix structure in output)
+Print the values in perimeter of a 2 Dimensional(NxM) array.
+
+Print the values of a 2 dimensional jagged array 
+{
+    {11},
+    {21,22},
+    {31,32,33}
+}
+
+Print the values of a 3 dimensional jagged array 
+{
+    {
+        {
+            111
+        }
+    },
+    {
+        {
+            211
+        },
+        {
+            221, 122
+        }
+    },
+    {
+        {
+            311
+        },
+        {
+            321, 322
+        },
+        {
+            321, 322, 323
+        }
+    }
+}

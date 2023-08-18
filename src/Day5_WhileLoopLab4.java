@@ -7,7 +7,7 @@ public class Day5_WhileLoopLab4 {
         System.out.println("Variation 1");
         int counter = 1;
         while (counter <= 10) {
-            System.out.print(counter + " ");
+            System.out.print(counter + "\t");
             counter++; //counter = counter + 1;
         }
         System.out.println("\n");

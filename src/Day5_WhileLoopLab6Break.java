@@ -11,7 +11,7 @@ public class Day5_WhileLoopLab6Break {
         Scanner inputScanner = new Scanner(System.in);
         while (counter <= 5) {
             int userInput = inputScanner.nextInt();
-            if (userInput != counter) {
+            if (userInput != counter) { //checking the sequence
                 break;
             }
             counter++; //counter = counter + 1;
